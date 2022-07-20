@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on projects related to data analysis
 - 📫 How to reach me: Email: nurubabs@gmail.com
+Portfolio: https://adewalejnr.github.io/NurudeenBabalola/
 
 <!---
 adewalejnr/adewalejnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
